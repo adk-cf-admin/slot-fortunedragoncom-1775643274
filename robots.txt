@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://slot-fortunedragon.com/
+Sitemap: https://slot-fortunedragon.com/sitemap.xml
